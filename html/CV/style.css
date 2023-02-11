@@ -1,0 +1,87 @@
+header{
+    display: flex;
+    background-color: grey;
+}
+.image_avatar{
+width: 56%;
+height: 95%;
+border-radius: 50%;
+margin-right: -370px;
+margin-left: 53px;
+}
+.main_aside{
+    display: flex;
+}
+main{
+    width: 80%;
+    border-left: 2px solid black;
+    padding-left: 50px;
+    background: #dd49000a;
+}
+aside{
+    width: 20%;
+    padding-left: 50px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer_note{
+display: flex;
+}
+.bloc_droit_header{
+border-left: 2px solid black;
+padding-left: 50px;
+}
+
+.categorie1{
+    margin-left: 230px;
+    color: #ff5733;
+}
+.categorie2{
+    margin-left: 325px;
+    color: #ff5733;
+}
+.COMPETENCES{
+margin-left: 50px;
+margin-right: 50px;
+}
+.PERSONNALITE{
+border-left-width: 1px;
+border-left-style: solid;
+border-right-width: 1px;
+border-right-style: solid;
+padding-left: 25px;
+padding-right: 25px;
+margin-left: 25px;
+margin-right: 25px;
+}
+.LANGUES{
+margin-left: 50px;
+margin-right: 50px;
+}
+hr{
+    width: 20px;
+    position: relative;
+    right: 170px;
+}
+.note{
+    margin-top: 22px;
+    margin-left: 5px;
+
+}
+.c{
+  height: 50px;
+  color: #e3e3e3;
+  text-align: center;
+  background-color: grey;
+  padding-top: 25px;
+  margin-top: 10px;
+}
+h2 {
+    color: #ff00009e;
+}
+h1 {
+    color: #c83800;
+}
