@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header img {
+	width: 100%;
+	max-width: 200px;
+}
+
+header {
+	height: 75px;
+}
+
+body{
+	background: #3d3d3d;
+}
+
+.titre_principal {
+	text-align: center;
+}
+
+.titre_secondaire {
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 2%;
+}
+
+.texte_box_accueil {
+	border: 1px lightgrey solid;
+    border-radius: 20px;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.jouer {
+	text-align: center;
+}
+
+.pays {
+	width: 33.33%;
+}
+
+.mosaique_pays {
+	display: flex;
+    flex-wrap: wrap;
+}
+
+.choix{
+	display: flex;
+	flex-wrap: wrap;
+}
+.choix1{
+	width: 28%;
+	border: 1px lightgrey solid;
+	border-radius: 20px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 6%;
+	background: #4aa3a2;
+	padding-right: 2%;
+	padding-left: 2%;
+	padding-bottom: 6%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	height: 500px;
+}
+.choix2{
+	width: 28%;
+	border: 1px lightgrey solid;
+	border-radius: 20px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2%;
+	background: #e8aabe;
+	padding-right: 2%;
+	padding-left: 2%;
+	padding-bottom: 2%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
+.choix3{
+	width: 28%;
+	border: 1px lightgrey solid;
+	border-radius: 20px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2%;
+	padding-right: 2%;
+	background: #ca3c66;
+	padding-left: 2%;
+	padding-bottom: 2%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
+h1{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center; 
+	color: white;
+}
+h2{
+	color: white;
+}
